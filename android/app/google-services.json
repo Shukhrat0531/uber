@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77762646054",
+    "project_id": "last-uber",
+    "storage_bucket": "last-uber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77762646054:android:cf6420758d68cc767b16e7",
+        "android_client_info": {
+          "package_name": "com.shuhrat.last_uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77762646054-18c7n0iphi9tolgicjuk9s0l0k8hs25u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJv8UJRXCT0a7EEhsNCJqt80mF7WbI0U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77762646054-18c7n0iphi9tolgicjuk9s0l0k8hs25u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
